@@ -10,7 +10,7 @@
     position: relative;
 }
 #main-visual .visual-item-wrap{
-    padding: 36px 11.532385466034755% 20px 46.44549763033176%; /*36px 73px 20px 294px*/
+    padding: 60px 11.532385466034755% 20px 46.44549763033176%; /*36px 73px 20px 294px*/
     min-height:332px;
     position: relative;
 }
@@ -55,7 +55,7 @@
     color: #fff;
     display: inline-block;
     border-radius: 3px;
-    padding: 5px 20px 7px;
+    padding: 7px 18px;
 }
 #main-visual .detail-view a:hover, #main-visual .detail-view a:focus{
     background-color: #b40a13;
