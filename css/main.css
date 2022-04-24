@@ -148,7 +148,7 @@
 #notice-tab-wrap .tab-btn-2{
     position: absolute;
     left: 97px;
-    top: 64px;
+    top: 62px;
 }
 #notice-tab-wrap li{
     height: 37px;
@@ -187,7 +187,7 @@
     clear: both;
 }
 .best-book-list{overflow: hidden;margin-left: -2.3255813953488373%}
-.best-book-list li.grid-item{
+.best-book-list li.grid-item {
     width: 22.674418604651162%;/*234px*/
     margin-left: 2.3255813953488373%;/*24px*/
     margin-bottom: 20px;
